@@ -1,14 +1,19 @@
 # Aster Hyphen
 
-Hey, I am Ahmed.-
-Sophomore • Information Science & Engineering
+Hey, I am Ahmed.- <br>
+Sophomore • Information Science & Engineering<br><br>
 
-I build things to learn a new skill. experiment stupid things or to help me make my life easier  
+I build things to learn a new skill. experiment stupid things or to help me make my life easier<br>
 My account comprises of majority of my projects, may  it be personal or college related. 
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=ahmedsiddiqua&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=ahmedsiddiqua&theme=tokyo-night))
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedsiddiqua&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedsiddiqua&theme=tokyonight)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedsiddiqua&theme=tokyonight)
 
 ---
