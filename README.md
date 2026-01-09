@@ -10,10 +10,14 @@ My account comprises of majority of my projects, may  it be personal or college 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedsiddiqua&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedsiddiqua&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedsiddiqua&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedsiddiqua&theme=tokyonight" />
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedsiddiqua&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedsiddiqua&theme=tokyonight" />
+
+</div>
+
 
 ---
