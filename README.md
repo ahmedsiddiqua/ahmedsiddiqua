@@ -11,10 +11,10 @@ Sophomore • Information Science & Engineering<br>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedsiddiqua&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedsiddiqua&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asterhyphen&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asterhyphen&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedsiddiqua&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asterhyphen&theme=tokyonight" />
 
 </div>
 
