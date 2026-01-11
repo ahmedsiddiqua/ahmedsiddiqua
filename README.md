@@ -11,7 +11,7 @@ Sophomore • Information Science & Engineering<br>
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/aster-hyphen" />
+<img src="https://metrics.lecoq.io/asterhyphen" />
 
 
 </div>
